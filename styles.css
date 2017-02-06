@@ -1,3 +1,6 @@
 .artist-thumb {
   height: 30vh;
 }
+.album-thumb {
+  width:100%;
+}
